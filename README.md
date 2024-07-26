@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @IamAdedo
-- 👱 Tech enthusiast. ...a dynamic professional skilled in digital design and software development, adept at merging creativity with technical prowess to craft cutting-edge digital experiences. Video editor. Photographer.
+- 👱 Tech enthusiast...a dynamic professional skilled in digital design and software development, adept at merging creativity with technical prowess to craft cutting-edge digital experiences. Video editor. Photographer.
 - 📫 You can reach me on https://m.me/IamAdedo,
 https://t.me/IamAdedo,
 https://x.com/IamAdedo,
