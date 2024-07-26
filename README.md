@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @IamAdedo
-- 👱 Tech enthusiast. Programmer. Video editor. Photographer. NFT Artist, Collector.
-- 👀 I’m interested in Mobile app development,
-- 🌱 I’m currently learning flutter.
-- 💞️ I’m looking to collaborate on any project that would enhance my knowledge and experience
-- 📫 You can reach me on https://m.me/IamAdedo https://t.me/IamAdedo
+- 👱 Tech enthusiast. ...a dynamic professional skilled in digital design and software development, adept at merging creativity with technical prowess to craft cutting-edge digital experiences. Video editor. Photographer.
+- 📫 You can reach me on https://m.me/IamAdedo,
+https://t.me/IamAdedo,
+https://x.com/IamAdedo,
+https://linkedin.com/in/IamAdedo
 More profile links at https://linktr.ee/IamAdedo
 
 <!---
