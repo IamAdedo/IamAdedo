@@ -3,17 +3,83 @@ IamAdedo/IamAdedo is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
+<!-- Dynamic Animated Header with Time-Based Greeting -->
+<div align="center">
+  <img id="time-based-greeting" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=500&color=FF7F11&center=true&width=600&height=80&lines=IamAdedo;IamAdedo,+The+Lazy+Hunter;IamAdedo,+The+Hobbyist" alt="Lazy Hunter Title">
+  
+```markdown
+𝙸𝚊𝚖𝙰𝚍𝚎𝚍𝚘 𓆩☬𓆪, ㄒ卄乇 ㄥ卂乙ㄚ 卄凵几ㄒ乇尺
+```
+  <!-- Animated Matrix Rain Background Effect -->
+  <img src="https://raw.githubusercontent.com/IamAdedo/IamAdedo/main/assets/matrix-rain.gif" width="100%" alt="matrix rain effect">
+</div>
+
+<!-- 3D Social Links with Interactive Hover -->
+<div align="center" style="margin: 20px 0;">
+  <a href="https://t.me/IamAdedo" target="_blank">
+    <img alt="Telegram" src="https://img.shields.io/badge/-TELEGRAM-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=121212&color=121212">
+  </a>
+  <a href="https://x.com/IamAdedo" target="_blank">
+    <img alt="Twitter" src="https://img.shields.io/badge/-TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=121212&color=121212">
+  </a>
+  <a href="https://linkedin.com/in/IamAdedo" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=121212&color=121212">
+  </a>
+  <a href="https://linktr.ee/IamAdedo" target="_blank">
+    <img alt="All Links" src="https://img.shields.io/badge/-ALL_LINKS-FF7F11?style=for-the-badge&logo=linktree&logoColor=white&labelColor=121212&color=121212">
+  </a>
+</div>
+
+<!-- Interactive Tabs Navigation -->
+<div align="center">
+  <a href="#about">About</a> •
+  <a href="#skills">Skills</a> •
+  <a href="#stats">Stats</a> •
+  <a href="#projects">Projects</a> •
+  <a href="#contact">Contact</a>
+</div>
+
+<div align="center">
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
+![Premiere Pro](https://img.shields.io/badge/-Premiere_Pro-9999FF?logo=adobepremierepro&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?logo=tailwindcss&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white) ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?logo=adobephotoshop&logoColor=white) ![Premiere Pro](https://img.shields.io/badge/-Premiere_Pro-9999FF?logo=adobepremierepro&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visualstudiocode&logoColor=white)
+</div>
+
+<!-- Animated Divider -->
+<img src="https://github.com/IamAdedo/IamAdedo/blob/main/assets/neon-divider.gif?raw=true" width="100%">
+
+<!-- About Section with 3D Card Effect -->
+<h2 id="about" align="center">🎯 <b>About The Lazy Hunter</b></h2>
+
+<div align="center">
+  <img src="https://github.com/IamAdedo/IamAdedo/blob/main/assets/digital-nomad.gif?raw=true" width="300" alt="Digital Nomad">
+</div>
+
+```javascript
+// Lazy Hunter Configuration
+const profile = {
+  name: "The Lazy Hunter",
+  role: "Digital Alchemist",
+  specialties: [
+    "Frontend Sorcery",
+    "UI/UX Wizardry",
+    "Pixel Perfection",
+    "Code Optimization"
+  ],
+  currentFocus: "Building immersive web experiences",
+  funFact: "Can debug CSS while sleeping"
+};
+```
+
+
 <!-- Animated Banner -->
 <div align="center">
 <img src="https://github.com/IamAdedo/IamAdedo/blob/main/assets/banner.gif?raw=true" alt="IamAdedo banner" width="100%">
 </div>
 
 
-<h1>Hi there, 𝙸𝚊𝚖𝙰𝚍𝚎𝚍𝚘 𓆩☬𓆪, *ㄒ卄乇 ㄥ卂乙ㄚ 卄凵几ㄒ乇尺*</h1>
-
-```markdown
-𝙸𝚊𝚖𝙰𝚍𝚎𝚍𝚘 𓆩☬𓆪, ㄒ卄乇 ㄥ卂乙ㄚ 卄凵几ㄒ乇尺
-```
 Tech enthusiast...a dynamic professional skilled in digital design and software development, adept at merging creativity with technical prowess to craft cutting-edge digital experiences.
 an hobbyist video editor & Photographer.
 
