@@ -8,11 +8,6 @@ You can click the Preview link to take a look at your changes.
 <img src="https://github.com/IamAdedo/IamAdedo/blob/main/assets/banner.gif?raw=true" alt="IamAdedo banner" width="100%">
 </div>
 
-<!-- Title with Animated Typing -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=FF7F11&center=true&vCenter=true&width=500&height=50&lines=" alt="Animated Typing" />
-</h1>
-
 
 ## Hi there, 𝙸𝚊𝚖𝙰𝚍𝚎𝚍𝚘 𓆩☬𓆪, *ㄒ卄乇 ㄥ卂乙ㄚ 卄凵几ㄒ乇尺*
 
@@ -89,45 +84,6 @@ const mySkills = {
 
 ---
 
-## 📊 **GitHub Stats**
-<div align="center">
-  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=IamAdedo&show_icons=true&theme=radical)
-  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IamAdedo&layout=compact&theme=nightowl)
-
-</div>
-
----
-
-<div align="center">
-  
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=IamAdedo.IamAdedo)
-  
-</div>
-
-
-
-
-<!-- Animated Banner -->
-<div align="center">
-  <img src="https://github.com/IamAdedo/IamAdedo/blob/main/assets/banner.gif?raw=true" alt="Lazy Hunter Banner" width="100%">
-</div>
-
-<!-- Title with Animated Typing -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=FF7F11&center=true&vCenter=true&width=500&height=50&lines=𓆩☬+The+Lazy+Hunter+☬𓆪;Digital+Alchemist;Pixel+Samurai;Code+Shinobi" alt="Animated Typing" />
-</h1>
-
-<!-- Social Badges with Hover Effects -->
-<div align="center">
-  
-[![Portfolio](https://custom-icon-badges.demolab.com/badge/-PORTFOLIO-FF7F11?style=for-the-badge&logo=star&logoColor=white)](https://linktr.ee/IamAdedo)
-[![Telegram](https://custom-icon-badges.demolab.com/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/IamAdedo)
-[![Email](https://custom-icon-badges.demolab.com/badge/-EMAIL-D14836?style=for-the-badge&logo=mail&logoColor=white)](mailto:adedo@example.com)
-
-</div>
-
 <!-- Animated Divider -->
 <img src="https://github.com/IamAdedo/IamAdedo/blob/main/assets/divider.gif?raw=true" width="100%">
 
@@ -181,6 +137,15 @@ const mySkills = {
 
 </div>
 
+## 📊 **GitHub Stats**
+<div align="center">
+  
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=IamAdedo&show_icons=true&theme=radical)
+  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IamAdedo&layout=compact&theme=nightowl)
+
+</div>
+
 <!-- GitHub Stats with 3D Effect -->
 <h2 align="center">📊 <b>GitHub War Stats</b></h2>
 
@@ -199,7 +164,7 @@ const mySkills = {
   
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| **NXVX ehshop (https://)** | AI-powered design assistant | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white) |
+| **[NXVX e-shop](https://vercel.app)** | AI-powered design assistant | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white) |
 | **[Project 2](link)** | Interactive portfolio builder | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black) |
 
 </div>
@@ -216,8 +181,12 @@ pie
     "Coffee Breaks" : 5
 ```
 
+
 <!-- Footer with Animated GIF -->
 <div align="center">
   <img src="https://github.com/IamAdedo/IamAdedo/blob/main/assets/footer.gif?raw=true" width="200">
   <p>Made with ❤️ and too much coffee</p>
+</div>
+<div align="center">
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=IamAdedo.IamAdedo)
 </div>
