@@ -11,9 +11,6 @@ You can click the Preview link to take a look at your changes.
 𝙸𝚊𝚖𝙰𝚍𝚎𝚍𝚘 𓆩☬𓆪, ㄒ卄乇 ㄥ卂乙ㄚ 卄凵几ㄒ乇尺
 ```
  </div>
- <!-- Animated Matrix Rain Background Effect -->
-  <img src="https://raw.githubusercontent.com/IamAdedo/IamAdedo/main/assets/matrix-rain.gif" width="100%" alt="matrix rain effect">
-
 
 <!-- 3D Social Links with Interactive Hover -->
 <div align="center" style="margin: 20px 0;">
@@ -177,8 +174,7 @@ pie
 
 <!-- Footer with Animated GIF -->
 <div align="center">
-  <img src="https://github.com/IamAdedo/IamAdedo/blob/main/assets/footer.gif?raw=true" width="200">
-  <p>Made with ❤️ and too much coffee</p>
+  <p>Made with ❤️ and too much coffee by IamAdedo</p>
   
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=IamAdedo.IamAdedo)
 
