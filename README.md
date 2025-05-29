@@ -37,7 +37,7 @@ You can click the Preview link to take a look at your changes.
   <a href="#contact">Contact</a>
 </div>
 
----
+<br>
 
 <div align="center">
   
@@ -49,6 +49,7 @@ You can click the Preview link to take a look at your changes.
 
 </div>
 
+---
 
 <!-- About Section with 3D Card Effect -->
 <h2 id="about" align="center">🎯 <b>About Me</b></h2>
@@ -56,11 +57,14 @@ You can click the Preview link to take a look at your changes.
 <div align="center" style="border-radius: 50%;">
   <img src="https://media.licdn.com/dms/image/v2/D4D03AQE3Lw_Bl451AQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1712506197935?e=1753920000&v=beta&t=02T_Nzrm0bvZKxe5kRtUINOvx2gT7GWnJDtFuGgZd5M" style="border-radius:50%; width:200px; height:200px; object-fit:cover; box-shadow: 0 0 10px rgba(0,0,0,0.3);” width="300" alt="Digital Nomad">
 </div>
+
 <br>
+
 🎨 **Digital Artisan** blending design magic with code sorcery  
 💻 **Full-Stack Explorer** crafting immersive digital experiences  
 📸 **Visual Storyteller** through lens and video timelines  
 ☕ **Caffeine-powered** problem solver  
+
 <br>
 
 ```javascript
@@ -81,10 +85,6 @@ const mySkills = {
 ```
 
 
-<!-- Animated Banner -->
-<!--<div align="center">
-<img src="https://github.com/IamAdedo/IamAdedo/blob/main/assets/banner.gif?raw=true" alt="IamAdedo banner" width="100%">
-</div> -->
 
 <div align="center" style="border: 1px solid grey">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=FF7F11&center=true&vCenter=true&width=500&&height=60&lines=Digital+Design+Alchemist;Code+Artisan;Pixel+Perfectionist;Creative+Technologist;The+Lazy+Hunter;Digital+Alchemist;Pixel+Samurai;Code+Shinobi" alt="Typing SVG" />
@@ -116,6 +116,9 @@ const mySkills = {
 [![Codepen](https://img.shields.io/badge/Codepen-000000?style=flat-square&logo=codepen&logoColor=white)](https://codepen.io/IamAdedo)
 </details>
 <br>
+
+---
+
 <!-- Tech Stack with Animated Icons -->
 <h2 align="center">⚔️ <b>Hunter's Toolkit</b></h2>
 
@@ -130,6 +133,9 @@ const mySkills = {
 
 </div>
 <br>
+
+---
+
 <!-- GitHub Stats with 3D Effect -->
 <h2 align="center">📊 <b>GitHub War Stats</b></h2>
 
@@ -146,6 +152,9 @@ const mySkills = {
 
 </div>
 <br />
+
+---
+
 <!-- Featured Projects -->
 <h2 align="center">🏆 <b>Notable Hunts</b></h2>
 
@@ -158,6 +167,9 @@ const mySkills = {
 
 </div>
 <br>
+
+---
+
 <!-- Daily Coding Habit -->
 <h2 align="center">⏳ <b>Daily Coding Ritual</b></h2>
 
