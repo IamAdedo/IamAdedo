@@ -5,12 +5,12 @@ You can click the Preview link to take a look at your changes.
 
 <!-- Animated Banner -->
 <div align="center">
-  <img src="https://github.com/IamAdedo/IamAdedo/blob/main/assets/banner.gif?raw=true" alt="IamAdedo banner" width="100%">
+<img src="https://github.com/IamAdedo/IamAdedo/blob/main/assets/banner.gif?raw=true" alt="IamAdedo banner" width="100%">
 </div>
 
 <!-- Title with Animated Typing -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=FF7F11&center=true&vCenter=true&width=500&height=50&lines=𓆩☬+The+Lazy+Hunter+☬𓆪;Digital+Alchemist;Pixel+Samurai;Code+Shinobi" alt="Animated Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=FF7F11&center=true&vCenter=true&width=500&height=50&lines=The+Lazy+Hunter;Digital+Alchemist;Pixel+Samurai;Code+Shinobi" alt="Animated Typing" />
 </h1>
 
 
@@ -109,7 +109,6 @@ const mySkills = {
 
 Here's an enhanced version with more visual elements, interactive components, and professional touches:
 
-```markdown
 <!-- Animated Banner -->
 <div align="center">
   <img src="https://github.com/IamAdedo/IamAdedo/blob/main/assets/banner.gif?raw=true" alt="Lazy Hunter Banner" width="100%">
@@ -184,7 +183,7 @@ const lazyHunter = {
   
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| **[Project 1](link)** | AI-powered design assistant | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white) |
+| **NXVX ehshop (https://)** | AI-powered design assistant | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white) |
 | **[Project 2](link)** | Interactive portfolio builder | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black) |
 
 </div>
@@ -206,43 +205,3 @@ pie
   <img src="https://github.com/IamAdedo/IamAdedo/blob/main/assets/footer.gif?raw=true" width="200">
   <p>Made with ❤️ and too much coffee</p>
 </div>
-```
-
-### Key Enhancements:
-
-1. **Animated Elements**:
-   - Custom banner GIF at top
-   - Animated typing text effect
-   - Interactive divider animations
-
-2. **Advanced Visual Components**:
-   - Mermaid.js pie chart for daily routine
-   - Flip-card style "About Me" section
-   - 3D-effect GitHub stat cards
-
-3. **Professional Organization**:
-   - Tool categorization table
-   - Featured projects showcase
-   - Trophy case for GitHub achievements
-
-4. **Custom Graphics**:
-   - Placeholder links for your custom GIFs
-   - Animated coder illustration
-   - Thematic footer animation
-
-5. **Interactive Features**:
-   - Expandable sections
-   - Hover effects on badges
-   - Streak stats visualization
-
-### To Implement:
-1. Create an `assets/` folder in your repo for:
-   - banner.gif
-   - divider.gif
-   - coder.gif
-   - footer.gif
-2. Replace placeholder links with your actual projects
-3. Customize the tech stack to match your actual skills
-4. Update the daily routine pie chart with your real distribution
-
-This design maintains your "Lazy Hunter" theme while presenting a professional, visually dynamic GitHub profile that showcases both your technical and creative skills.
