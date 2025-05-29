@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 
-## Hi there, 𝙸𝚊𝚖𝙰𝚍𝚎𝚍𝚘 𓆩☬𓆪, *ㄒ卄乇 ㄥ卂乙ㄚ 卄凵几ㄒ乇尺*
+<h1>Hi there, 𝙸𝚊𝚖𝙰𝚍𝚎𝚍𝚘 𓆩☬𓆪, *ㄒ卄乇 ㄥ卂乙ㄚ 卄凵几ㄒ乇尺*</h1>
 
 ```markdown
 𝙸𝚊𝚖𝙰𝚍𝚎𝚍𝚘 𓆩☬𓆪, ㄒ卄乇 ㄥ卂乙ㄚ 卄凵几ㄒ乇尺
@@ -137,23 +137,19 @@ const mySkills = {
 
 </div>
 
-## 📊 **GitHub Stats**
-<div align="center">
-  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=IamAdedo&show_icons=true&theme=radical)
-  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IamAdedo&layout=compact&theme=nightowl)
-
-</div>
-
 <!-- GitHub Stats with 3D Effect -->
 <h2 align="center">📊 <b>GitHub War Stats</b></h2>
 
 <div align="center">
   
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=IamAdedo&show_icons=true&theme=radical)
+  
 [![GitHub Streak](https://streak-stats.demolab.com?user=IamAdedo&theme=radical&border_radius=10&mode=weekly)](https://git.io/streak-stats)
 
 [![Trophy Case](https://github-profile-trophy.vercel.app/?username=IamAdedo&theme=radical&margin-w=15&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IamAdedo&layout=compact&theme=nightowl)
+
 
 </div>
 
@@ -188,5 +184,7 @@ pie
   <p>Made with ❤️ and too much coffee</p>
 </div>
 <div align="center">
+  
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=IamAdedo.IamAdedo)
+
 </div>
