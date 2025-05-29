@@ -120,18 +120,7 @@ const mySkills = {
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/IamAdedo)
 [![Codepen](https://img.shields.io/badge/Codepen-000000?style=flat-square&logo=codepen&logoColor=white)](https://codepen.io/IamAdedo)
 </details>
-
-<!-- Animated Divider -->
-<img src="https://github.com/IamAdedo/IamAdedo/blob/main/assets/divider.gif?raw=true" width="100%">
-
-<!-- About Me Section with Flip Card Effect -->
-
-
-<div align="center">
-  <img src="https://github.com/IamAdedo/IamAdedo/blob/main/assets/coder.gif?raw=true" width="300">
-</div>
-</details>
-
+<br>
 <!-- Tech Stack with Animated Icons -->
 <h2 align="center">⚔️ <b>Hunter's Toolkit</b></h2>
 
