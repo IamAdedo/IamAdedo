@@ -19,9 +19,7 @@ Reach out on [Telegram](https://t.me/IamAdedo)
 More profile link on [Linktr.ee](https://linktr.ee/IamAdedo)
 </details>
 
-
-![GitHub stars](https://img.shields.io/github/stars/IamAdedo/IamAdedo?style=social)
-![License](https://img.shields.io/badge/license-MIT-blue)
+---
 
 <!---
 IamAdedo/IamAdedo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
