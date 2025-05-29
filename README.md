@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 
 <!-- Title with Animated Typing -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=FF7F11&center=true&vCenter=true&width=500&height=50&lines=The+Lazy+Hunter;Digital+Alchemist;Pixel+Samurai;Code+Shinobi" alt="Animated Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=FF7F11&center=true&vCenter=true&width=500&height=50&lines=" alt="Animated Typing" />
 </h1>
 
 
@@ -23,7 +23,7 @@ Tech enthusiast...a dynamic professional skilled in digital design and software 
 an hobbyist video editor & Photographer.
 
 <div align="center" style="border: 1px solid grey">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF7F11&center=true&width=435&lines=Digital+Design+Alchemist;Code+Artisan;Pixel+Perfectionist;Creative+Technologist;𓆩☬+The+Lazy+Hunter+☬𓆪;Digital+Alchemist;Pixel+Samurai;Code+Shinobi" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=FF7F11&center=true&vCenter=true&width=500&&height=60&lines=Digital+Design+Alchemist;Code+Artisan;Pixel+Perfectionist;Creative+Technologist;The+Lazy+Hunter;Digital+Alchemist;Pixel+Samurai;Code+Shinobi" alt="Typing SVG" />
 </div>
 
 ---
@@ -34,10 +34,19 @@ an hobbyist video editor & Photographer.
 📸 **Visual Storyteller** through lens and video timelines  
 ☕ **Caffeine-powered** problem solver  
 
+
 ```javascript
+const lazyHunter = {
+  pronouns: "he/him",
+  hobbies: ["Photography", "Gaming", "Anime"],
+  motto: "Build fast, break things, learn faster"
+};
+
 const mySkills = {
   design: ["UI/UX", "Photoshop", "Illustrator", "Figma"],
-  code: ["JavaScript", "Python", "React", "Node.js"],
+  code: ["JavaScript", "Python", "React", "Node.js", "HTML/CSS"],
+  tools: ["React", "Node", "Figma", "Adobe Suite"],
+  architecture: ["MERN Stack", "Serverless"],
   creative: ["Photography", "Video Editing", "Motion Graphics"],
   philosophy: "Create first, optimize later"
 };
@@ -48,15 +57,8 @@ const mySkills = {
 ## 🌐 **Connect With Me**
 <div align="center">
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/IamAdedo)
-[![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/IamAdedo)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/IamAdedo)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF7F11?style=for-the-badge&logo=About.me&logoColor=white)](https://about.me/IamAdedo)
 
-
-[![Portfolio](https://custom-icon-badges.demolab.com/badge/-PORTFOLIO-FF7F11?style=for-the-badge&logo=star&logoColor=white)](https://linktr.ee/IamAdedo)
-[![Telegram](https://custom-icon-badges.demolab.com/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/IamAdedo)
-[![Email](https://custom-icon-badges.demolab.com/badge/-EMAIL-D14836?style=for-the-badge&logo=mail&logoColor=white)](mailto:noreplyadedo@gmail.com)
+[![Telegram](https://custom-icon-badges.demolab.com/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/IamAdedo) [![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/IamAdedo) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/IamAdedo) [![Portfolio](https://custom-icon-badges.demolab.com/badge/-PORTFOLIO-FF7F11?style=for-the-badge&logo=star&logoColor=white)](https://about.me/IamAdedo) [![Email](https://custom-icon-badges.demolab.com/badge/-EMAIL-D14836?style=for-the-badge&logo=mail&logoColor=white)](mailto:noreplyadedo@gmail.com)
 
 </div>
 
@@ -107,8 +109,6 @@ const mySkills = {
 
 
 
-Here's an enhanced version with more visual elements, interactive components, and professional touches:
-
 <!-- Animated Banner -->
 <div align="center">
   <img src="https://github.com/IamAdedo/IamAdedo/blob/main/assets/banner.gif?raw=true" alt="Lazy Hunter Banner" width="100%">
@@ -138,13 +138,29 @@ Here's an enhanced version with more visual elements, interactive components, an
 ```javascript
 const lazyHunter = {
   pronouns: "he/him",
-  code: ["JavaScript", "Python", "PHP", "HTML/CSS"],
-  tools: ["React", "Node", "Figma", "Adobe Suite"],
-  architecture: ["MERN Stack", "Serverless"],
   hobbies: ["Photography", "Gaming", "Anime"],
   motto: "Build fast, break things, learn faster"
 };
+
+const mySkills = {
+  design: ["UI/UX", "Photoshop", "Illustrator", "Figma"],
+  code: ["JavaScript", "Python", "React", "Node.js", "HTML/CSS"],
+  tools: ["React", "Node", "Figma", "Adobe Suite"],
+  architecture: ["MERN Stack", "Serverless"],
+  creative: ["Photography", "Video Editing", "Motion Graphics"],
+  philosophy: "Create first, optimize later"
+};
 ```
+
+```javascript
+const mySkills = {
+  design: ["UI/UX", "Photoshop", "Illustrator", "Figma"],
+  code: ["JavaScript", "Python", "React", "Node.js"],
+  creative: ["Photography", "Video Editing", "Motion Graphics"],
+  philosophy: "Create first, optimize later"
+};
+```
+
 
 <div align="center">
   <img src="https://github.com/IamAdedo/IamAdedo/blob/main/assets/coder.gif?raw=true" width="300">
