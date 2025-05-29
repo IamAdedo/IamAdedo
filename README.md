@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 
 <!-- Dynamic Animated Header with Time-Based Greeting -->
 <div align="center">
-  <img id="time-based-greeting" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=500&color=FF7F11&center=true&width=600&height=80&lines=IamAdedo;IamAdedo,+The+Lazy+Hunter;IamAdedo,+The+Hobbyist" alt="Lazy Hunter Title">
+  <img id="time-based-greeting" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=FF7F11&center=true&vCenter=true&width=500&&height=60&lines=IamAdedo;IamAdedo,+The+Lazy+Hunter;IamAdedo,+The+Hobbyist" alt="Lazy Hunter Title">
   
 ```markdown
 𝙸𝚊𝚖𝙰𝚍𝚎𝚍𝚘 𓆩☬𓆪, ㄒ卄乇 ㄥ卂乙ㄚ 卄凵几ㄒ乇尺
@@ -39,12 +39,16 @@ You can click the Preview link to take a look at your changes.
   <a href="#contact">Contact</a>
 </div>
 
+---
+
 <div align="center">
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+  
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
-![Premiere Pro](https://img.shields.io/badge/-Premiere_Pro-9999FF?logo=adobepremierepro&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?logo=tailwindcss&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white) ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?logo=adobephotoshop&logoColor=white) ![Premiere Pro](https://img.shields.io/badge/-Premiere_Pro-9999FF?logo=adobepremierepro&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visualstudiocode&logoColor=white)
+![Premiere Pro](https://img.shields.io/badge/-Premiere_Pro-9999FF?logo=adobepremierepro&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?logo=tailwindcss&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white) ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?logo=adobephotoshop&logoColor=white) ![Premiere Pro](https://img.shields.io/badge/-Premiere_Pro-9999FF?logo=adobepremierepro&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visualstudiocode&logoColor=white) 
+
 </div>
 
 <!-- Animated Divider -->
@@ -57,19 +61,27 @@ You can click the Preview link to take a look at your changes.
   <img src="https://github.com/IamAdedo/IamAdedo/blob/main/assets/digital-nomad.gif?raw=true" width="300" alt="Digital Nomad">
 </div>
 
+## 🔮 **About Me**
+🎨 **Digital Artisan** blending design magic with code sorcery  
+💻 **Full-Stack Explorer** crafting immersive digital experiences  
+📸 **Visual Storyteller** through lens and video timelines  
+☕ **Caffeine-powered** problem solver  
+
+
 ```javascript
-// Lazy Hunter Configuration
-const profile = {
-  name: "The Lazy Hunter",
-  role: "Digital Alchemist",
-  specialties: [
-    "Frontend Sorcery",
-    "UI/UX Wizardry",
-    "Pixel Perfection",
-    "Code Optimization"
-  ],
-  currentFocus: "Building immersive web experiences",
-  funFact: "Can debug CSS while sleeping"
+const lazyHunter = {
+  pronouns: "he/him",
+  hobbies: ["Photography", "Gaming", "Anime"],
+  motto: "Build fast, break things, learn faster"
+};
+
+const mySkills = {
+  design: ["UI/UX", "Photoshop", "Illustrator", "Figma"],
+  code: ["JavaScript", "Python", "React", "Node.js", "HTML/CSS"],
+  tools: ["React", "Node", "Figma", "Adobe Suite"],
+  architecture: ["MERN Stack", "Serverless"],
+  creative: ["Photography", "Video Editing", "Motion Graphics"],
+  philosophy: "Create first, optimize later"
 };
 ```
 
@@ -78,10 +90,6 @@ const profile = {
 <div align="center">
 <img src="https://github.com/IamAdedo/IamAdedo/blob/main/assets/banner.gif?raw=true" alt="IamAdedo banner" width="100%">
 </div>
-
-
-Tech enthusiast...a dynamic professional skilled in digital design and software development, adept at merging creativity with technical prowess to craft cutting-edge digital experiences.
-an hobbyist video editor & Photographer.
 
 <div align="center" style="border: 1px solid grey">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=FF7F11&center=true&vCenter=true&width=500&&height=60&lines=Digital+Design+Alchemist;Code+Artisan;Pixel+Perfectionist;Creative+Technologist;The+Lazy+Hunter;Digital+Alchemist;Pixel+Samurai;Code+Shinobi" alt="Typing SVG" />
