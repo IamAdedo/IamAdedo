@@ -15,6 +15,9 @@ https://linkedin.com/in/IamAdedo
 
 More profile links at https://linktr.ee/IamAdedo
 
+![GitHub stars](https://img.shields.io/github/stars/user/repo?style=social)
+![License](https://img.shields.io/badge/license-MIT-blue)
+
 <!---
 IamAdedo/IamAdedo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
