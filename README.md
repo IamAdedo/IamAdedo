@@ -6,16 +6,21 @@ an hobbyist video editor & Photographer.
 
 ## 📫 Contacts
 
-https://m.me/IamAdedo,
-https://t.me/IamAdedo,
-https://x.com/IamAdedo,
-https://linkedin.com/in/IamAdedo
+Reach out on [Telegram](https://t.me/IamAdedo)
 
-## More
+## Links
+<details>
+<summary>Click</summary>
+  
+[Messenger](https://m.me/IamAdedo), [X (Twitter)](https://x.com/IamAdedo), [Linkedin](https://linkedin.com/in/IamAdedo)
 
-More profile links at https://linktr.ee/IamAdedo
 
-![GitHub stars](https://img.shields.io/github/stars/user/repo?style=social)
+
+More profile link on [Linktr.ee](https://linktr.ee/IamAdedo)
+</details>
+
+
+![GitHub stars](https://img.shields.io/github/stars/IamAdedo/IamAdedo?style=social)
 ![License](https://img.shields.io/badge/license-MIT-blue)
 
 <!---
