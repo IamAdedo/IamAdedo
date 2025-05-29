@@ -121,49 +121,10 @@ const mySkills = {
 [![Codepen](https://img.shields.io/badge/Codepen-000000?style=flat-square&logo=codepen&logoColor=white)](https://codepen.io/IamAdedo)
 </details>
 
----
-
-## 🛠️ **Current Tech Stack**
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
-![Premiere Pro](https://img.shields.io/badge/-Premiere_Pro-9999FF?logo=adobepremierepro&logoColor=white)
-
----
-
 <!-- Animated Divider -->
 <img src="https://github.com/IamAdedo/IamAdedo/blob/main/assets/divider.gif?raw=true" width="100%">
 
 <!-- About Me Section with Flip Card Effect -->
-<details>
-<summary><h2> 🎭 <b>About The Lazy Hunter</b></h2></summary>
-  
-```javascript
-const lazyHunter = {
-  pronouns: "he/him",
-  hobbies: ["Photography", "Gaming", "Anime"],
-  motto: "Build fast, break things, learn faster"
-};
-
-const mySkills = {
-  design: ["UI/UX", "Photoshop", "Illustrator", "Figma"],
-  code: ["JavaScript", "Python", "React", "Node.js", "HTML/CSS"],
-  tools: ["React", "Node", "Figma", "Adobe Suite"],
-  architecture: ["MERN Stack", "Serverless"],
-  creative: ["Photography", "Video Editing", "Motion Graphics"],
-  philosophy: "Create first, optimize later"
-};
-```
-
-```javascript
-const mySkills = {
-  design: ["UI/UX", "Photoshop", "Illustrator", "Figma"],
-  code: ["JavaScript", "Python", "React", "Node.js"],
-  creative: ["Photography", "Video Editing", "Motion Graphics"],
-  philosophy: "Create first, optimize later"
-};
-```
 
 
 <div align="center">
@@ -212,7 +173,7 @@ const mySkills = {
 | **[Project 2](link)** | Interactive portfolio builder | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black) |
 
 </div>
-
+<br>
 <!-- Daily Coding Habit -->
 <h2 align="center">⏳ <b>Daily Coding Ritual</b></h2>
 
