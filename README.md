@@ -10,9 +10,10 @@ You can click the Preview link to take a look at your changes.
 ```markdown
 𝙸𝚊𝚖𝙰𝚍𝚎𝚍𝚘 𓆩☬𓆪, ㄒ卄乇 ㄥ卂乙ㄚ 卄凵几ㄒ乇尺
 ```
-  <!-- Animated Matrix Rain Background Effect -->
+ </div>
+ <!-- Animated Matrix Rain Background Effect -->
   <img src="https://raw.githubusercontent.com/IamAdedo/IamAdedo/main/assets/matrix-rain.gif" width="100%" alt="matrix rain effect">
-</div>
+
 
 <!-- 3D Social Links with Interactive Hover -->
 <div align="center" style="margin: 20px 0;">
@@ -55,13 +56,12 @@ You can click the Preview link to take a look at your changes.
 <img src="https://github.com/IamAdedo/IamAdedo/blob/main/assets/neon-divider.gif?raw=true" width="100%">
 
 <!-- About Section with 3D Card Effect -->
-<h2 id="about" align="center">🎯 <b>About The Lazy Hunter</b></h2>
+<h2 id="about" align="center">🎯 <b>About Me</b></h2>
 
 <div align="center" style="border-radius: 50%;">
   <img src="https://media.licdn.com/dms/image/v2/D4D03AQE3Lw_Bl451AQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1712506197935?e=1753920000&v=beta&t=02T_Nzrm0bvZKxe5kRtUINOvx2gT7GWnJDtFuGgZd5M" style="border-radius:50%; width:200px; height:200px; object-fit:cover; box-shadow: 0 0 10px rgba(0,0,0,0.3);” width="300" alt="Digital Nomad">
 </div>
 
-## 🔮 **About Me**
 🎨 **Digital Artisan** blending design magic with code sorcery  
 💻 **Full-Stack Explorer** crafting immersive digital experiences  
 📸 **Visual Storyteller** through lens and video timelines  
@@ -137,7 +137,7 @@ const mySkills = {
 
 <!-- About Me Section with Flip Card Effect -->
 <details>
-<summary><h2>🎭 <b>About The Hunter</b></h2></summary>
+<summary><h2> 🎭 <b>About The Lazy Hunter</b></h2></summary>
   
 ```javascript
 const lazyHunter = {
