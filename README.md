@@ -172,16 +172,27 @@ const mySkills = {
 ---
 
 <!-- Daily Coding Habit -->
-<h2 align="center">⏳ <b>Daily Coding Ritual</b></h2>
+<h2 align="center">⏳ <b>Daily Coding Ritual: A Beautiful Disaster</b></h2>
 
 ```mermaid
 pie
     title Daily Coding Time
-    "Designing" : 30
-    "Vibe coding" : 5
-    "Coding" : 45
-    "Debugging" : 15
-    "Coffee Breaks" : 5
+
+    "Actual 'Original' Coding" : 8
+    "Staring at Code (Vibing with Imposter Syndrome)" : 20
+    "Copy-Pasting from Stack Overflow (With Minor Tweaks)" : 25
+    "Fighting Git (Why Is 'Merge' So Violent?)" : 10
+    "Coffee/Energy Drink IV Drip" : 15
+    "Debugging Typos (The Real Final Boss)" : 7
+    "Alt-Tabbing to Fake Productivity" : 5
+    "Rewriting Code Because 'There Has to Be a Better Way'" : 10
+    "Googling 'Why Is My Code Not Working?'" : 20
+    "Yelling at VS Code/IDE for Betrayal" : 5
+    "GitHub Green Square Addiction" : 3
+    "'Research' (Cat Videos & Memes)" : 12
+    "Existential Crisis in the Fetal Position" : 15
+    "Explaining to Non-Tech People 'What I Actually Do'" : 5
+
 ```
 
 <!-- Footer with Animated GIF -->
