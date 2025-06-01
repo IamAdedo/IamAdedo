@@ -60,19 +60,19 @@ You can click the Preview link to take a look at your changes.
 
 <br>
 
-🎨 **Digital Artisan** blending design magic with code sorcery  
-💻 **Full-Stack Explorer** crafting immersive digital experiences  
-📸 **Visual Storyteller** through lens and video timelines  
+🎨 **Digital Artisan/Sorcerer** blending design magic with code sorcery by conjuring pixels into purpose.
+💻 **Full-Stack Explorer** crafting immersive digital experiences with a side of AI wizardry.  
+📸 **Visual Storyteller** through lens and video timelines with a camera roll full of chaos. 
 
 <br>
 
 ```javascript
 const IamAdedo = {
-aliases: ["The Lazy Hunter", "dLazyHunter", "TheHobbyist", "The Hobbyist"],
+  aliases: ["The Lazy Hunter", "dLazyHunter", "TheHobbyist", "The Hobbyist"],
   devMode: true,
   pronouns: "he/him",
-  hobbies: ["Photography", "Gaming", "Anime"],
-  motto: "Build fast, break things, learn faster"
+  hobbies: ["Gaming 🎮", "Photography 📷", "Anime 🔥", "Overthinking things I already built"],
+  motto: "Build fast, break things, learn faster, Ship it, Then polish it."
 };
 
 const mySkills = {
