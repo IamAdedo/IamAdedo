@@ -77,7 +77,7 @@ const lazyHunter = {
 const mySkills = {
   design: ["UI/UX", "Photoshop", "Illustrator", "Figma"],
   code: ["JavaScript", "Python", "React", "Node.js", "HTML/CSS"],
-  tools: ["React", "Node", "Figma", "Adobe Suite"],
+  tools: ["React", "Node", "Figma", "Adobe Suite", "Git", "VS Code", "Google", "Prayer", "ChatGPT"],
   architecture: ["MERN Stack", "Serverless"],
   creative: ["Photography", "Video Editing", "Motion Graphics"],
   philosophy: "Create first, optimize later"
