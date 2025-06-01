@@ -63,7 +63,7 @@ You can click the Preview link to take a look at your changes.
 🎨 **Digital Artisan** blending design magic with code sorcery  
 💻 **Full-Stack Explorer** crafting immersive digital experiences  
 📸 **Visual Storyteller** through lens and video timelines  
-☕ **Caffeine-powered** problem solver  
+☕ **Caffeine-powered** problem solver with support from Simple-Google-search to Vibe coding 
 
 <br>
 
@@ -176,7 +176,8 @@ const mySkills = {
 ```mermaid
 pie
     title Daily Coding Time
-    "Designing" : 35
+    "Designing" : 30
+    "Vibe coding" : 5
     "Coding" : 45
     "Debugging" : 15
     "Coffee Breaks" : 5
@@ -186,11 +187,8 @@ pie
 <div align="center">
   <p>Made with ❤️ and too much coffee by IamAdedo</p>
 
-  <!--
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=IamAdedo.aboutMe)
--->
   
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=IamAdedo.IamAdedo)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=IamAdedo.aboutMe)
 
 
 </div>
