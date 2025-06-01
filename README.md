@@ -67,7 +67,9 @@ You can click the Preview link to take a look at your changes.
 <br>
 
 ```javascript
-const lazyHunter = {
+const IamAdedo = {
+aliases: ["The Lazy Hunter", "dLazyHunter", "TheHobbyist", "The Hobbyist"],
+  devMode: true,
   pronouns: "he/him",
   hobbies: ["Photography", "Gaming", "Anime"],
   motto: "Build fast, break things, learn faster"
