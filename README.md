@@ -30,10 +30,10 @@ You can click the Preview link to take a look at your changes.
 
 <!-- Interactive Tabs Navigation -->
 <div align="center">
-  <a href="#about">About</a> •
-  <a href="#skills">Skills</a> •
-  <a href="#stats">Stats</a> •
-  <a href="#projects">Projects</a> •
+  <a href="#about">About</a> ••
+  <a href="#skills">Skills</a> ••
+  <a href="#stats">Stats</a> ••
+  <a href="#projects">Projects</a> ••
   <a href="#contact">Contact</a>
 </div>
 
@@ -186,6 +186,6 @@ pie
 <div align="center">
   <p>Made with ❤️ and too much coffee by IamAdedo</p>
   
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=IamAdedo.IamAdedo)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=IamAdedo.aboutMe)
 
 </div>
