@@ -80,8 +80,7 @@ const mySkills = {
   tools: ["React", "Node", "Figma", "Adobe Suite", "Git", "VS Code", "Google", "Prayer", "ChatGPT"],
   architecture: ["MERN Stack", "Serverless"],
   creative: ["Photography", "Video Editing", "Motion Graphics"],
-  philosophy: "Create first, optimize later"
-};
+  philosophy: "Create first, optimize later, If it's stupid but it works, it's not stupid." };
 ```
 
 
