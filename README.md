@@ -65,8 +65,6 @@ You can click the Preview link to take a look at your changes.
 📸 **Visual Storyteller** through lens and video timelines  
 
 <br>
-Ctrl+C / Ctrl+V Expert, Professional Stack Overflow, ChatGPT Copy-Paster
-<br>
 
 ```javascript
 const lazyHunter = {
@@ -81,13 +79,13 @@ const mySkills = {
   tools: ["React", "Node", "Figma", "Adobe Suite", "Git", "VS Code", "Google", "Prayer", "ChatGPT"],
   architecture: ["MERN Stack", "Serverless"],
   creative: ["Photography", "Video Editing", "Motion Graphics"],
-  philosophy: "Create first, optimize later, If it's stupid but it works, it's not stupid." };
+  philosophy: "Create first, optimize later & If it's stupid but it works, it's not stupid." };
 ```
 
 
 
 <div align="center" style="border: 1px solid grey">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=FF7F11&center=true&vCenter=true&width=500&&height=60&lines=Digital+Design+Alchemist;Code+Artisan;Pixel+Perfectionist;Creative+Technologist;The+Lazy+Hunter;Digital+Alchemist;Pixel+Samurai;Code+Shinobi" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=FF7F11&center=true&vCenter=true&width=500&&height=60&lines=Digital+Design+Alchemist;Code+Artisan;Pixel+Perfectionist;Creative+Technologist;The+Lazy+Hunter;Digital+Alchemist;Pixel+Samurai;Ctrl+C+/+Ctrl+V+Expert;Pro+Stack+Overflow+Copy-Paster;Pro+ChatGPT+Copy-Paster;Code+Shinobi;Vibe+Coder" alt="Typing SVG" />
 </div>
 
 ---
@@ -96,7 +94,10 @@ const mySkills = {
 <div align="center">
 
 
-[![Telegram](https://custom-icon-badges.demolab.com/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/IamAdedo) [![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/IamAdedo) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/IamAdedo) [![Portfolio](https://custom-icon-badges.demolab.com/badge/-PORTFOLIO-FF7F11?style=for-the-badge&logo=star&logoColor=white)](https://about.me/IamAdedo) [![Email](https://custom-icon-badges.demolab.com/badge/-EMAIL-D14836?style=for-the-badge&logo=mail&logoColor=white)](mailto:noreplyadedo@gmail.com)
+[![Telegram](https://custom-icon-badges.demolab.com/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/IamAdedo) [![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/IamAdedo) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/IamAdedo) [![Portfolio](https://custom-icon-badges.demolab.com/badge/-PORTFOLIO-FF7F11?style=for-the-badge&logo=star&logoColor=white)](https://about.me/IamAdedo) [![Email](https://custom-icon-badges.demolab.com/badge/-EMAIL-D14836?style=for-the-badge&logo=mail&logoColor=white)](mailto:noreplyadedo@gmail.com) 
+[![Website](https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://about.me/IamAdedo)  
+
+**Or just send me a meme. I accept payment in GIFs.** 😆  
 
 </div>
 
