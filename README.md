@@ -202,7 +202,7 @@ pie
   <p>Made with ❤️ and too much coffee by IamAdedo</p>
 
   
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=IamAdedo.aboutMe)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=IamAdedo.IamAdedo)
 
 
 </div>
