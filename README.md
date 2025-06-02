@@ -203,7 +203,7 @@ pie
 
 1
   
-![Profile views](https://komarev.com/ghpvc/?username=IamAdedo&color=blue)
+![Profile views](https://komarev.com/ghpvc/?username=IamAdedo&color=blue&label=PROFILE+VISITORS)
  
 <br>
 2
