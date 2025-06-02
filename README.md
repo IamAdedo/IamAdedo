@@ -205,5 +205,7 @@ pie
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=IamAdedo.IamAdedo)
 
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=IamAdedo.IamAdedo&color=blue&label=PROFILE+VISITORS)
+
 
 </div>
