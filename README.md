@@ -212,7 +212,7 @@ pie
 
 3
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=IamAdedo.IamAdedo)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=IamAdedo.aboutMe)
 
 4
 
