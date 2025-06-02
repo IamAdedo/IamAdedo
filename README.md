@@ -201,22 +201,12 @@ pie
   <p>Made with ❤️ and too much coffee by IamAdedo</p>
 
 
-1
   
-![Profile views](https://komarev.com/ghpvc/?username=IamAdedo&color=blue&label=PROFILE+VISITORS)
+![Profile views](https://komarev.com/ghpvc/?username=IamAdedo&color=blue&label=PROFILE+VISITORSs)
  
 <br>
-2
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=IamAdedo.IamAdedo&color=blue&label=PROFILE+VIEWS)
-
-3
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=IamAdedo.aboutMe)
-
-4
-
-![Profile views](https://komarev.com/ghpvc/?username=IamAdedo&color=blue&label=PROFILE+VISITORS)
 
 
 </div>
