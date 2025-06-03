@@ -53,8 +53,9 @@ IamAdedo/IamAdedo is a ✨ special ✨ repository because its `README.md` (this 
 <!-- About Section with 3D Card Effect -->
 <h2 id="about" align="center">🎯 <b>About Me</b></h2>
 
+<div align="center">
 ![passport](./files/passport.png)
-
+</div>
 
 🎨 **Digital Artisan/Sorcerer** blending design magic with code sorcery by conjuring pixels into purpose.
 💻 **Full-Stack Explorer** crafting immersive digital experiences with a side of AI wizardry.  
@@ -102,15 +103,15 @@ const mySkills = {
 <details>
 <summary><b>📌 All My Links</b></summary>
   
-### **Social**
+<h3> **Social** </h3>
 [![Messenger](https://img.shields.io/badge/Messenger-00B2FF?style=flat-square&logo=messenger&logoColor=white)](https://m.me/IamAdedo)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/IamAdedo)
   
-### **Creative**
+<h3> **Creative** </h3>
 [![Behance](https://img.shields.io/badge/Behance-1769FF?style=flat-square&logo=behance&logoColor=white)](https://behance.net/IamAdedo)
 [![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=flat-square&logo=dribbble&logoColor=white)](https://dribbble.com/IamAdedo)
 
-### **Code**
+<h3> **Code** </h3>
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/IamAdedo)
 [![Codepen](https://img.shields.io/badge/Codepen-000000?style=flat-square&logo=codepen&logoColor=white)](https://codepen.io/IamAdedo)
 </details>
