@@ -202,7 +202,7 @@ pie
 
 
   
-![Profile views](https://komarev.com/ghpvc/?username=IamAdedo&color=blue&label=PROFILE+TOTAL+VISITORS)
+![Profile views](https://komarev.com/ghpvc/?username=IamAd edo&color=blue&label=PROFILE+TOTAL+VISITORS)
 
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=IamAdedo.IamAdedo&color=blue&label=PROFILE+VIEWS)
