@@ -1,7 +1,11 @@
-ADEDO, Ibrahim Shuaib
+# ADEDO, Ibrahim Shuaib
+
 📞
+
 ✉️
+
 📍
+
 
 ## Summary
 
