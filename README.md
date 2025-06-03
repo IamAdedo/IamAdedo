@@ -57,6 +57,8 @@ IamAdedo/IamAdedo is a ✨ special ✨ repository because its `README.md` (this 
   <img src="https://media.licdn.com/dms/image/v2/D4D03AQE3Lw_Bl451AQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1712506197935?e=1753920000&v=beta&t=02T_Nzrm0bvZKxe5kRtUINOvx2gT7GWnJDtFuGgZd5M" style="border-radius:50%; width:200px; height:200px; object-fit:cover; box-shadow: 0 0 10px rgba(0,0,0,0.3);” width="300" alt="Digital Nomad">
 </div>
 
+![passport](https://media.licdn.com/dms/image/v2/D4D03AQE3Lw_Bl451AQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1712506197935?e=1753920000&v=beta&t=02T_Nzrm0bvZKxe5kRtUINOvx2gT7GWnJDtFuGgZd5M)
+
 <br>
 
 🎨 **Digital Artisan/Sorcerer** blending design magic with code sorcery by conjuring pixels into purpose.
