@@ -103,17 +103,17 @@ const mySkills = {
 <details>
 <summary><b>📌 All My Links</b></summary>
   
-<h3> **Social** </h3>
+<h3><b>Social<b></h3>
 
 [![Messenger](https://img.shields.io/badge/Messenger-00B2FF?style=flat-square&logo=messenger&logoColor=white)](https://m.me/IamAdedo)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/IamAdedo)
   
-<h3> **Creative** </h3>
+<h3><b>Creative</b></h3>
 
 [![Behance](https://img.shields.io/badge/Behance-1769FF?style=flat-square&logo=behance&logoColor=white)](https://behance.net/IamAdedo)
 [![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=flat-square&logo=dribbble&logoColor=white)](https://dribbble.com/IamAdedo)
 
-<h3> **Code** </h3>
+<h3><b>Code</b> </h3>
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/IamAdedo)
 [![Codepen](https://img.shields.io/badge/Codepen-000000?style=flat-square&logo=codepen&logoColor=white)](https://codepen.io/IamAdedo)
