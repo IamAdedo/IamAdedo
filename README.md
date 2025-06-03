@@ -2,7 +2,8 @@
 IamAdedo/IamAdedo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --->
 
-<!-- Dynamic Animated Header with Time-Based Greeting -->
+<!-- Dynamic Animated Header -->
+
 <div align="center">
   <img id="time-based-greeting" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=FF7F11&center=true&vCenter=true&width=500&&height=60&lines=IamAdedo;IamAdedo,+The+Lazy+Hunter;IamAdedo,+The+Hobbyist" alt="Lazy Hunter Title">
   
@@ -28,6 +29,7 @@ IamAdedo/IamAdedo is a ✨ special ✨ repository because its `README.md` (this 
 </div>
 
 <!-- Interactive Tabs Navigation -->
+
 <div align="center">
   <a href="#about">About</a> ••
   <a href="#skills">Skills</a> ••
@@ -51,6 +53,7 @@ IamAdedo/IamAdedo is a ✨ special ✨ repository because its `README.md` (this 
 ---
 
 <!-- About Section with 3D Card Effect -->
+
 <h2 id="about" align="center">🎯 <b>About Me</b></h2>
 
 <div align="center">
@@ -60,7 +63,9 @@ IamAdedo/IamAdedo is a ✨ special ✨ repository because its `README.md` (this 
 </div>
 
 🎨 **Digital Artisan/Sorcerer** blending design magic with code sorcery by conjuring pixels into purpose.
-💻 **Full-Stack Explorer** crafting immersive digital experiences with a side of AI wizardry.  
+
+💻 **Full-Stack Explorer** crafting immersive digital experiences with a side of AI wizardry. 
+
 📸 **Visual Storyteller** through lens and video timelines with a camera roll full of chaos. 
 
 <br>
@@ -94,7 +99,6 @@ const mySkills = {
 ## 🌐 **Connect With Me**
 <div align="center">
 
-
 [![Telegram](https://custom-icon-badges.demolab.com/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/IamAdedo) [![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/IamAdedo) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/IamAdedo) [![Portfolio](https://custom-icon-badges.demolab.com/badge/-PORTFOLIO-FF7F11?style=for-the-badge&logo=star&logoColor=white)](https://about.me/IamAdedo) [![Email](https://custom-icon-badges.demolab.com/badge/-EMAIL-D14836?style=for-the-badge&logo=mail&logoColor=white)](mailto:noreplyadedo@gmail.com) 
 [![Website](https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://about.me/IamAdedo)  
 
@@ -127,6 +131,7 @@ const mySkills = {
 ---
 
 <!-- Tech Stack with Animated Icons -->
+
 <h2 align="center">⚔️ <b>Hunter's Toolkit</b></h2>
 
 <div align="center">
@@ -139,11 +144,13 @@ const mySkills = {
 | **Other**       | ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visualstudiocode&logoColor=white) |
 
 </div>
+
 <br>
 
 ---
 
 <!-- GitHub Stats with 3D Effect -->
+
 <h2 align="center">📊 <b>GitHub War Stats</b></h2>
 
 <div align="center">
@@ -156,13 +163,14 @@ const mySkills = {
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IamAdedo&layout=compact&theme=nightowl)
 
-
 </div>
+
 <br />
 
 ---
 
 <!-- Featured Projects -->
+
 <h2 align="center">🏆 <b>Notable Hunts</b></h2>
 
 <div align="center">
@@ -173,11 +181,13 @@ const mySkills = {
 | **[Project 2](link)** | Interactive portfolio builder | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black) |
 
 </div>
+
 <br>
 
 ---
 
 <!-- Daily Coding Habit -->
+
 <h2 align="center">⏳ <b>Daily Coding Ritual: A Beautiful Disaster</b></h2>
 
 ```mermaid
@@ -202,7 +212,9 @@ pie
 ```
 
 <!-- Footer with Animated GIF -->
+
 <div align="center">
+
   <p>Made with ❤️ and too much coffee by IamAdedo</p>
 
 
