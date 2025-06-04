@@ -115,11 +115,18 @@ const mySkills = {
 [![Messenger](https://img.shields.io/badge/Messenger-00B2FF?style=flat-square&logo=messenger&logoColor=white)](https://m.me/IamAdedo)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/IamAdedo)
 [![Threads](https://img.shields.io/badge/Threads-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://threads.com/IamAdedo)
+[![Threads](https://img.shields.io/badge/Threads-000000?style=flat-square&logo=threads&logoColor=white)](https://threads.net/IamAdedo)  
+[![X (Twitter)](https://img.shields.io/badge/X_(Twitter)-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/IamAdedo)  
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/IamAdedo)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/IamAdedo)  
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/IamAdedo)  
+
   
 <b>Creative</b>
 
 [![Behance](https://img.shields.io/badge/Behance-1769FF?style=flat-square&logo=behance&logoColor=white)](https://behance.net/IamAdedo)
 [![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=flat-square&logo=dribbble&logoColor=white)](https://dribbble.com/IamAdedo)
+[![Pinterest](https://img.shields.io/badge/Pinterest-E60023?style=flat-square&logo=pinterest&logoColor=white)](https://pinterest.com/IamAdedo)
 
 <b>Code</h3>
 
@@ -133,7 +140,7 @@ const mySkills = {
 </details>
 
 <br>
-
+<!--
 ### **Socials**  
 [![Messenger](https://img.shields.io/badge/Messenger-00B2FF?style=flat-square&logo=messenger&logoColor=white)](https://m.me/IamAdedo)  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/IamAdedo)  
@@ -159,7 +166,7 @@ const mySkills = {
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/IamAdedo)  
 [![Replit](https://img.shields.io/badge/Replit-667881?style=flat-square&logo=replit&logoColor=white)](https://replit.com/@IamAdedo)  
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://kaggle.com/IamAdedo)  
-
+-->
 ---
 
 <!-- Tech Stack with Animated Icons -->
