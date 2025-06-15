@@ -32,7 +32,7 @@ IamAdedo/IamAdedo is a ✨ special ✨ repository because its `README.md` (this 
 
 <div align="center">
   <a href="#-about-me">About</a> ••
-  <a href="#-hunters-toolkit">Skills</a> ••
+  <a href="#%EF%B8%8F-hunters-toolkit">Skills</a> ••
   <a href="#-github-war-stats">Stats</a> ••
   <a href="#-notable-hunts">Projects</a> ••
   <a href="#-connect-with-me">Contact</a>
