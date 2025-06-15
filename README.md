@@ -31,11 +31,11 @@ IamAdedo/IamAdedo is a ✨ special ✨ repository because its `README.md` (this 
 <!-- Interactive Tabs Navigation -->
 
 <div align="center">
-  <a href="#about">About</a> ••
-  <a href="#skills">Skills</a> ••
-  <a href="#stats">Stats</a> ••
-  <a href="#projects">Projects</a> ••
-  <a href="#contact">Contact</a>
+  <a href="#-about-me">About</a> ••
+  <a href="#-hunters-toolkit">Skills</a> ••
+  <a href="#-github-war-stats">Stats</a> ••
+  <a href="#-notable-hunts">Projects</a> ••
+  <a href="#-connect-with-me">Contact</a>
 </div>
 
 <br>
