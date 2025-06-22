@@ -60,8 +60,6 @@ IamAdedo/IamAdedo is a ✨ special ✨ repository because its `README.md` (this 
   
 ![passport](./files/passport.png)
 
-![passport](https://raw.githubusercontent.com/IamAdedo/IamAdedo/main/files/passport.png)
-
 </div>
 
 🎨 **Digital Artisan/Sorcerer** blending design magic with code sorcery by conjuring pixels into purpose.
