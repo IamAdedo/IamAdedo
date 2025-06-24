@@ -259,19 +259,4 @@ pie
 ![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=IamAdedo.IamAdedo&color=blue&label=PROFILE+VIEWS)
 
 
-![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=IamAdedo.IamAdedo&color=blue&label=PROFILE+VIEWS)
-
-
-![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=IamAdedo.IamAdedo&color=blue&label=PROFILE+VIEWS)
-
-
-![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=IamAdedo.IamAdedo&color=blue&label=PROFILE+VIEWS)
-
-
-![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=IamAdedo.IamAdedo&color=blue&label=PROFILE+VIEWS)
-
-
-![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=IamAdedo.IamAdedo&color=blue&label=PROFILE+VIEWS)
-
-
 </div>
