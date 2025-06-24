@@ -2,7 +2,6 @@
 
 📍 Ilorin, Kwara State, 240241  
 📱 +2349015519219  
-✉ [oneluvadex1@gmail.com](mailto:oneluvadex1@gmail.com)  
 🔗 [LinkedIn: IamAdedo](https://linkedin.com/in/iamadedo)  
 🔗 [About Me](https://about.me/iamadedo)
 
