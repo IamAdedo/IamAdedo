@@ -5,10 +5,10 @@ IamAdedo/IamAdedo is a ✨ special ✨ repository because its `README.md` (this 
 <!-- Dynamic Animated Header -->
 
 <div align="center">
-  <img id="time-based-greeting" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=FF7F11&center=true&vCenter=true&width=500&&height=60&lines=IamAdedo;IamAdedo,+The+Lazy+Hunter;IamAdedo,+The+Hobbyist" alt="Lazy Hunter Title">
+  <img id="time-based-greeting" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=FF7F11&center=true&vCenter=true&width=500&&height=60&lines=IamAdedo;IamAdedo,+The+Lazy+Riva+Hunter;IamAdedo,+The+Hobbyist" alt="Lazy Hunter Title">
   
 ```markdown
-𝙸𝚊𝚖𝙰𝚍𝚎𝚍𝚘 𓆩☬𓆪, ㄒ卄乇 ㄥ卂乙ㄚ 卄凵几ㄒ乇尺
+𝙸𝚊𝚖𝙰𝚍𝚎𝚍𝚘; ꒒ꋬꑓꐞ Ʀɨ⩔ꋬ ꀍꋊ꓄Ʀ 𓆩☬𓆪
 ```
  </div>
 
@@ -72,7 +72,7 @@ IamAdedo/IamAdedo is a ✨ special ✨ repository because its `README.md` (this 
 
 ```javascript
 const IamAdedo = {
-  aliases: ["The Lazy Hunter", "dLazyHunter", "TheHobbyist", "The Hobbyist"],
+  aliases: ["꒒ꋬꑓꐞ Ʀɨ⩔ꋬ ꀍꋊ꓄Ʀ 𓆩☬𓆪", "The Lazy Riva Hunter", "dLazyHunter", "TheHobbyist", "The Hobbyist"],
   devMode: true,
   pronouns: "he/him",
   hobbies: ["Gaming 🎮", "Photography 📷", "Anime 🔥", "Overthinking things I already built"],
@@ -145,7 +145,7 @@ const mySkills = {
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/IamAdedo)  
 [![Threads](https://img.shields.io/badge/Threads-000000?style=flat-square&logo=threads&logoColor=white)](https://threads.net/IamAdedo)  
 [![X (Twitter)](https://img.shields.io/badge/X_(Twitter)-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/IamAdedo)  
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/IamAdedo)  
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/dLazyHNTR)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/IamAdedo)  
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/IamAdedo)  
 
@@ -216,7 +216,7 @@ const mySkills = {
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | **[NXVX e-shop](https://vercel.app)** | AI-powered design assistant | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white) |
-| **[Project 2](link)** | Interactive portfolio builder | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black) |
+| **[Exam webapp](https://github.com/IamAdedo/etest-sjmusso)** | Interactive portfolio builder | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black) |
 
 </div>
 
@@ -253,7 +253,7 @@ pie
 
 <div align="center">
 
-  <p>Made with ❤️ and too much coffee by IamAdedo</p>
+  <p>Made with ❤️ and too much coffee by IamAdedo—꒒ꋬꑓꐞ Ʀɨ⩔ꋬ ꀍꋊ꓄Ʀ 𓆩☬𓆪</p>
 
 
 ![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=IamAdedo.IamAdedo&color=blue&label=PROFILE+VIEWS)
