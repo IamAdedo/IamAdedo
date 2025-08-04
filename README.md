@@ -216,7 +216,7 @@ const mySkills = {
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | **[NXVX e-shop](https://vercel.app)** | AI-powered design assistant | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white) |
-| **[Exam webapp](https://github.com/IamAdedo/etest-sjmusso)** | Interactive portfolio builder | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black) |
+| **[Exam webapp](https://github.com/IamAdedo/etest-sjmusso)** | eTest WebApp for Secondary School (SJMUSSO) | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black) |
 
 </div>
 
