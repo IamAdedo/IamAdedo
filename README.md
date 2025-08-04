@@ -8,7 +8,7 @@ IamAdedo/IamAdedo is a ✨ special ✨ repository because its `README.md` (this 
   <img id="time-based-greeting" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=FF7F11&center=true&vCenter=true&width=500&&height=60&lines=IamAdedo;IamAdedo,+The+Lazy+Riva+Hunter;IamAdedo,+The+Hobbyist" alt="Lazy Hunter Title">
   
 ```markdown
-𝙸𝚊𝚖𝙰𝚍𝚎𝚍𝚘; LAZY RIVA ꀍUꋊ꓄EƦ 𓆩☬𓆪
+𝙸𝚊𝚖𝙰𝚍𝚎𝚍𝚘; LAZY RIVA ꀍUꋊ꓄ER 𓆩☬𓆪
 ```
  </div>
 
