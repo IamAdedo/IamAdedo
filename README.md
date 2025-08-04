@@ -72,7 +72,7 @@ IamAdedo/IamAdedo is a ✨ special ✨ repository because its `README.md` (this 
 
 ```javascript
 const IamAdedo = {
-  aliases: ["LAZY RIVA ꀍUꋊ꓄EƦ 𓆩☬𓆪", "The Lazy Riva Hunter", "dLazyHunter", "TheHobbyist", "The Hobbyist"],
+  aliases: ["LAZY RIVA HUꋊ꓄ER 𓆩☬𓆪", "The Lazy Riva Hunter", "dLazyHunter", "TheHobbyist", "The Hobbyist"],
   devMode: true,
   pronouns: "he/him",
   hobbies: ["Gaming 🎮", "Photography 📷", "Anime 🔥", "Overthinking things I already built"],
