@@ -107,7 +107,7 @@ const mySkills = {
 </div>
 
 <details>
-<summary><b>📌 [All My Links](https://iamadedo.cc.cc)</b></summary>
+<summary><b>📌 [All My Links](https://iamadedo.cc.cc) </b></summary>
   
 
 <b>Social<b>
