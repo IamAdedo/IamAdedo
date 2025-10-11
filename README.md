@@ -107,7 +107,7 @@ const mySkills = {
 </div>
 
 <details>
-<summary><b>📌 All My Links</b></summary>
+<summary><b>📌 [All My Links](https://iamadedo.cc.cc)</b></summary>
   
 
 <b>Social<b>
@@ -253,7 +253,7 @@ pie
 
 <div align="center">
 
-  <p>Made with ❤️ and too much coffee by IamAdedo—꒒ꋬꑓꐞ Ʀɨ⩔ꋬ ꀍꋊ꓄Ʀ 𓆩☬𓆪</p>
+  <p>Made with ❤️ and too much coffee by IamAdedo—𝕃ꋬꑓꐞ Ɍɨ⩔ꋬ ꀍꋊ꓄Ɍ 𓆩☬𓆪</p>
 
 
 ![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=IamAdedo.IamAdedo&color=blue&label=PROFILE+VIEWS)
