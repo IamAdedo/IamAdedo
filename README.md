@@ -23,7 +23,7 @@ IamAdedo/IamAdedo is a ✨ special ✨ repository because its `README.md` (this 
   <a href="https://linkedin.com/in/IamAdedo" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=121212&color=121212">
   </a>
-  <a href="https://linktr.ee/IamAdedo" target="_blank">
+  <a href="https://iamadedo.cc.cc" target="_blank">
     <img alt="All Links" src="https://img.shields.io/badge/-ALL_LINKS-FF7F11?style=for-the-badge&logo=linktree&logoColor=white&labelColor=121212&color=121212">
   </a>
 </div>
@@ -107,7 +107,7 @@ const mySkills = {
 </div>
 
 <details>
-<summary><b>📌 [All My Links](https://iamadedo.cc.cc) </b></summary>
+<summary><b>📌 All My Links </b></summary>
   
 
 <b>Social<b>
