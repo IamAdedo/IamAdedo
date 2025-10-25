@@ -120,3 +120,12 @@ Technology, Programming, Artificial Intelligence, Healthcare Innovation, Communi
 
 Available upon request.
 
+
+
+
+
+
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=IamAdedo.IamAdedo&color=blue&label=PROFILE+VIEWS)
+
+
+
