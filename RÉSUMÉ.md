@@ -17,7 +17,7 @@ Detail-oriented **Physiology graduate** with hands-on clinical training in cardi
 
 **Postgraduate Diploma (PGD), Physiology**  
 *Bayero University Kano, Kano, Nigeria*  
-
+Graduated: **2026**
 
 
 **Bachelor of Science (BSc), Physiology**  
