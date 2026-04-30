@@ -9,7 +9,7 @@
 
 ## 👨‍⚕️ Professional Summary
 
-Detail-oriented **Physiology graduate** with hands-on clinical training in cardiology and ECG interpretation. Proficient in **Excel**, data analysis, and digital tools to optimize workflow. Experienced **educator and leader** with a passion for integrating **healthcare and technology** to drive innovation and community development.
+Detail-oriented **Physiology graduate** with hands-on clinical training in cardiology and ECG interpretation. Proficient in **Excel, SPSS** & **R** for data analysis and interpretation, and digital tools to optimize workflow. Experienced **educator and leader** with a passion for integrating **healthcare and technology** to drive innovation and community development.
 
 ---
 
@@ -17,7 +17,7 @@ Detail-oriented **Physiology graduate** with hands-on clinical training in cardi
 
 **Postgraduate Diploma (PGD), Physiology**  
 *Bayero University Kano, Kano, Nigeria*  
-(In progress)
+
 
 
 **Bachelor of Science (BSc), Physiology**  
@@ -64,6 +64,16 @@ Graduated: **2023**
 - Conducted experimental research on pain mechanisms using lab animals.  
 - Ensured ethical handling and compliance with protocols.  
 - Collected and analyzed data contributing to preliminary findings.
+
+---
+
+## Publication
+
+### Physiological limit of Human Cardiovascular Adaptation to Global Warming 
+*Authors*: Bashir Isa Waziri & Ibrahim Shuaib Adedo 
+*Affiliation*: Bayero University Kano 
+*Year*: 2026
+*DOI*: (to be updated)
 
 ---
 
