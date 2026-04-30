@@ -67,13 +67,13 @@ Graduated: **2023**
 
 ---
 
-## Publication
+## Publications
 
 ### Physiological limit of Human Cardiovascular Adaptation to Global Warming 
 
 *Authors*: Bashir Isa Waziri & Ibrahim Shuaib Adedo
 
-*Affiliation*: Bayero University Kano 
+*Affiliation*: Bayero University, Kano 
 
 *Year*: 2026
 
@@ -122,6 +122,7 @@ Graduated: **2023**
 
 - **English** – Professional Proficiency  
 - **Yoruba** – Native
+- **French** – Conversational 
 
 ---
 
