@@ -2,8 +2,8 @@
 IamAdedo/IamAdedo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --->
 
-!-- Animated Header -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Victor%20Emeka%20Okpe&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+<!-- Animated Header -->
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Adedo,%20Ibrahim%20Shuaib&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
 <!-- Dynamic Animated Header -->
 
