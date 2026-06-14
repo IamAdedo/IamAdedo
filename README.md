@@ -262,4 +262,7 @@ pie
 ![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=IamAdedo.IamAdedo&color=blue&label=PROFILE+VIEWS)
 
 
+<!-- Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+
 </div>
